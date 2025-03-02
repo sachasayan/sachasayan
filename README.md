@@ -5,11 +5,9 @@
 
 I'm Sacha. Architect, Engineering Manager, Community Manager, and Educator from Toronto, Canada, but travelling the world. 🌴✈️
 
-Currently working on [Minstrel](https://github.com/sachasayan/minstrel), the agentic solution for writing built on the modern stack. 
+Currently working on [Minstrel](https://github.com/sachasayan/minstrel), the agentic solution for writing built on the modern stack. Writing about the future of mobility, and managing and automating multiple online communities with over a million users and counting. Ask me. 
 
-Managing and automating multiple online communities with over a million users and counting. 
-
-Contact me: 
+You can find me in these places: 
 
 * [Sachasayan.com](https://sachasayan.com/)
 * [Twitter/X](https://x.com/sachasayan)
