@@ -1,16 +1,18 @@
+
+![Sacha Sayan](https://raw.githubusercontent.com/sachasayan/sachasayan/refs/heads/main/sacha-banner.png)
+
 ## Hi there 👋
 
-<!--
-**sachasayan/sachasayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sacha. Architect, Engineering Manager, Community Manager, and Educator from Toronto, Canada, but travelling the world. 🌴✈️
 
-Here are some ideas to get you started:
+Currently working on [Minstrel](https://github.com/sachasayan/minstrel), the agentic solution for writing built on the modern stack. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Managing and automating multiple online communities with over a million users and counting. 
+
+Contact me: 
+
+* [Sachasayan.com](https://sachasayan.com/)
+* [Twitter/X](https://x.com/sachasayan)
+* [Threads](https://www.threads.net/@sachasayan)
+
+
